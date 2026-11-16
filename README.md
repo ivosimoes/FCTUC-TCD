@@ -1,4 +1,4 @@
-# FCTUC-TCD
+# FCTUC-TCD 2024/2025
 
 Project made for 2024/2025 edition of Data Science Topics course
 
